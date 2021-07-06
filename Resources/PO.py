@@ -1,0 +1,8 @@
+SearchButton_XPath = "//ion-button[text()='Search ']"
+EnterMobileNoInput_CSSSel = "input[placeholder='Enter your mobile number']"
+GetOTPButton_XPath = "//ion-button[text()=' Get OTP ']"
+EnterOTPInput_CSSSel = "input[placeholder='Enter OTP']"
+VerifyProceedButton_XPath = "//ion-button[text()=' Verify & Proceed ']"
+ScheduleButton_XPath = "//span[text()='Schedule']"
+SearchByDistrict_CSSSel = "[data-checked='Search By District']"
+SearchByPIN_CSSSel = "[data-checked='Search By PIN']"

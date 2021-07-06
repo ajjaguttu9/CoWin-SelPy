@@ -1,0 +1,12 @@
+DeviceID = ""
+BrowserType = "chrome"
+BrowserURL = "https://selfregistration.cowin.gov.in/"
+MobileNum = ""
+SearchBy = "PIN"
+StateID = "Karnataka"
+DistrictID = "BBMP"
+Age = 47
+VaccinationDate = "10 June 2021"
+HospitalName = "PHC,JOHNS,APOLLO CLINIC,APOLLO CRADLE,NARAYANA MULTISPECIALTY CLINIC,DODDANEKUNDI,BELLANDUR,CLOUDNINE,RXDX,FORTIS,MANIPAL,WHITEFIELD,560066,560037"
+TimeSlot =  "3"
+PINCODE = "560037"
